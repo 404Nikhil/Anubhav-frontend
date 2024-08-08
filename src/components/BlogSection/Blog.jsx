@@ -126,10 +126,10 @@ const Blog = () => {
             </>
           )}
                 <Giscus
-                src="https://giscus.app/client.js"
+            
       id="comments"
       repo="404Nikhil/Anubhav-frontend"
-      repo-id="R_kgDOMJ3j1g"
+      repoId="R_kgDOMJ3j1g"
       category="Announcements"
       categoryId="DIC_kwDOF1L2fM4B-hVS"
       mapping="pathname"
