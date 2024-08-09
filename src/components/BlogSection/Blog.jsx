@@ -131,7 +131,7 @@ const Blog = () => {
       repo="404Nikhil/Anubhav-frontend"
       repoId="R_kgDOMJ3j1g"
       category="Announcements"
-      categoryId="DIC_kwDOF1L2fM4B-hVS"
+      categoryId="DIC_kwDOMJ3j1s4CgbtK"
       mapping="pathname"
       term="Welcome to @giscus/react component!"
       reactionsEnabled="1"
